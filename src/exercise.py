@@ -1,7 +1,7 @@
 def main():
   #write your code below this line
 
-    name = input("What is your name? ")
+    name = input("What is your name?")
     print ("Hi " + name)
 
    
